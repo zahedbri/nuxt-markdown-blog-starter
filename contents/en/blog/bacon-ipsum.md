@@ -3,7 +3,7 @@ name: bacon-ipsum
 title: Apply Dash Higher Study Admission in Bangladesh
 year: 28 May 2019
 id: bacon-ipsum
-date: 2020-07-25T09:29:46.355Z
+date: 2021-09-21T07:53:29.408Z
 description: Overseas students who are seeking higher study advantages from Bangladesh
 ---
 ![Scholarships](/img/94316912_2681591035297122_3378388740656332800_n.jpg "Scholarships in Bangladesh")
