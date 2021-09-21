@@ -16,7 +16,7 @@ List your schools with Applydash to get admission from abroad
 
   ![university](https://applydash.com/userfiles/cache/thumbnails/993/tn-52ba88bc82f373c5801712da85ecddc3.jpg "List Your Schools")
 
-  [ww.applydash.com](www.applydash.com)
+  [www.applydash.com](www.applydash.com)
 * <https://docs.google.com/forms/u/1/d/e/1FAIpQLSeKqidrfdBs9shlhI5ub3bF8KnnfX0RUe_gpsmZjknCUDSSqA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link>
 *
 *
