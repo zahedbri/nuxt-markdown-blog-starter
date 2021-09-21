@@ -12,7 +12,14 @@ List your schools with Applydash to get admission from abroad
 
 * Are an English Medium School
 * A Private Sector University?
-* A Private or Government medical college/university
+* A Private or Government medical college/university [w](www.applydash.com)
+
+  ![university](https://applydash.com/userfiles/cache/thumbnails/993/tn-52ba88bc82f373c5801712da85ecddc3.jpg)
+
+  [ww.applydash.com](www.applydash.com)
+*
+*
+*
 
 ```javascript
 import blogsEn from '~/contents/en/blogsEn.js'
